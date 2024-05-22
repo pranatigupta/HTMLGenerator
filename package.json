@@ -1,5 +1,5 @@
 {
-  "homepage": "https://pranatigupta.github.io/generateHTML",
+  "homepage": "https://pranatigupta.github.io/HTMLGenerator",
   "name": "react-typescript",
   "version": "1.0.0",
   "description": "React and TypeScript example starter project",
@@ -30,7 +30,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "dev": "vite",
-    "build": "tsc && vite build",
+    "build": "vite build",
     "preview": "vite preview"
   },
   "browserslist": [
