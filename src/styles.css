@@ -421,6 +421,7 @@ pre::-webkit-scrollbar-thumb {
   border-radius: 5px;
   border: none;
   width: 100px;
+  cursor:pointer;
 }
 
 .html-text {
